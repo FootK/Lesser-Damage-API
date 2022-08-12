@@ -1,0 +1,7 @@
+{
+  "attribute.maxlives": "Maximum Lives",
+  "attribute.lives": "Lives",
+  "attribute.dodge": "Dodge",
+  "attribute.life_regen": "Life regen",
+  "attribute.life_damage": "Life Damage"
+}
